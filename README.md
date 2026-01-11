@@ -9,8 +9,8 @@
 ### 🧠 About Me
 - 🛡 **Windows 보안 에이전트 개발자** (B2B Endpoint / Agent)
 - 🏢 ESTsecurity Windows Dev Team (2020.12 ~ Present)
-- ⚙️ Low-level / Agent / Debugging 중심 개발
-- ☁️ GitHub 내 **CWPP (Cloud Workload Protection Platform)** 설계·구현 중
+- ⚙️ Low-level / Agent / Debugging
+- ☁️ **CWPP (Cloud Workload Protection Platform)** Developer (Agent / Server)
 
 ---
 
